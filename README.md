@@ -18,7 +18,7 @@ Below are some changes made to my printer compared to the stock configuration th
 - Creality Filament Runout Sensor
 - KlipperScreen connected to a Raspberry Pi 4
 - GulfCoast Robotics V6 All Metal Hotend
-- Creality All Metal Extruder
+- GulfCoast Robotics Dual Gear All Metal Extruder
 
 # Current Cura Slicer G-Code Filename Format
 [abbr_machine]-[base_name]-[material]-[machine_nozzle_size]mm-[infill_sparse_density]pct_fill-[speed_print]mms
