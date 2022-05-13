@@ -12,7 +12,7 @@ Below are some changes made to my printer compared to the stock configuration th
 - GulfCoast Robotics All Metal Hotend
 - Creality All Metal Extruder
 
-# Printer Info - Ender 3
+# Printer Info - ExtEnder 3
 Below are some changes made to my printer compared to the stock configuration that would affect the config file
 - Ender Extender 400
 - Creality 4.2.7 Board
