@@ -18,7 +18,6 @@ Below are some changes made to my printer compared to the stock configuration th
 - Creality 4.2.7 Board
 - Creality BLTouch V3.1 (replaces Z endstop switch)
 - Creality Filament Runout Sensor
-- KlipperScreen connected to a Raspberry Pi 4
 - GulfCoast Robotics V6 All Metal Hotend
 - GulfCoast Robotics Dual Gear All Metal Extruder
 
