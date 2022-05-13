@@ -6,7 +6,7 @@
 # Printer Info - Ender 3 V2
 Below are some changes made to my printer compared to the stock configuration that would affect the config file
 - Creality 4.2.2 Board
-- Creality BLTouch V3.1 (replaces Z endstop switch)
+- Creality BLTouch V3.1
 - Creality Filament Runout Sensor
 - KlipperScreen connected to a Raspberry Pi 4
 - GulfCoast Robotics All Metal Hotend
@@ -16,7 +16,7 @@ Below are some changes made to my printer compared to the stock configuration th
 Below are some changes made to my printer compared to the stock configuration that would affect the config file
 - Ender Extender 400
 - Creality 4.2.7 Board
-- Creality BLTouch V3.1 (replaces Z endstop switch)
+- Creality BLTouch V3.1
 - Creality Filament Runout Sensor
 - GulfCoast Robotics V6 All Metal Hotend
 - GulfCoast Robotics Dual Gear All Metal Extruder
