@@ -26,5 +26,3 @@ Below are some changes made to my printer compared to the stock configuration th
 [abbr_machine]-[base_name]-[material]-[machine_nozzle_size]mm-[infill_sparse_density]pct_fill-[speed_print]mms
 - Using a plugin in Cura to keep track of useful print information
 - Plugin repo - https://github.com/rgomezjnr/GcodeFilenameFormatPlus
-
-
