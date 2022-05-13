@@ -1,7 +1,7 @@
 # KlipperConfig
 - Configuration of my Klipper files using Fluidd
-- Using a Raspberry Pi 4 to have to control two printers
-- Klipper, Moonraker, Fluidd, and Mainsail installed using Kiauh - https://github.com/th33xitus/KIAUH
+- Using a Raspberry Pi 4 to control two printers using two instances of both Klipper and Moonraker
+- Klipper, Moonraker, Fluidd, and Mainsail installed using Kiauh, has support for multiple instances of Klipper and Moonraker - https://github.com/th33xitus/KIAUH
  
 # Printer Info - Ender 3 V2
 Below are some changes made to my printer compared to the stock configuration that would affect the config file
