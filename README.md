@@ -22,6 +22,6 @@ Below are some changes made to my printer compared to the stock configuration th
 - GulfCoast Robotics Dual Gear All Metal Extruder
 
 # Current Cura Slicer G-Code Filename Format
-[abbr_machine]-[base_name]-[material]-[machine_nozzle_size]mm-[infill_sparse_density]pct_fill-[speed_print]mms
+[abbr_machine]-[base_name]-[material]-[machine_nozzle_size]mm-[infill_sparse_density]pct_fill-[speed_print]mms-[scale]pct_scl
 - Using a plugin in Cura to keep track of useful print information
 - Plugin repo - https://github.com/rgomezjnr/GcodeFilenameFormatPlus
