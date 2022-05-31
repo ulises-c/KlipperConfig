@@ -1,5 +1,3 @@
-G90 ; Set absolute coordinate mode
-
 M140 S{material_bed_temperature_layer_0} ; Start heating the heated bed
 
 M190 S{material_bed_temperature_layer_0} ; Wait until the heated bed reaches the desired temperature
@@ -11,6 +9,8 @@ G28 ; Auto Home
 G29 ; Bed Leveling (with BLTouch)
 
 G92 E0 ; Reset extruder origin
+
+G90 ; Set absolute coordinate mode
 
 M104 S{material_print_temperature_layer_0} ; Start heating the extruder
 
