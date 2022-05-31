@@ -11,7 +11,7 @@ Below are some changes made to my printer compared to the stock configuration th
 - Creality Filament Runout Sensor
 - KlipperScreen connected to a Raspberry Pi 4
 - GulfCoast Robotics All Metal Hotend
-- Creality All Metal Extruder
+- Bondtech BMG Extruder Clone
 
 # Printer Info - ExtEnder 3
 Below are some changes made to my printer compared to the stock configuration that would affect the config file
