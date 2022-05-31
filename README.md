@@ -15,7 +15,7 @@ Below are some changes made to my printer compared to the stock configuration th
 
 # Printer Info - ExtEnder 3
 Below are some changes made to my printer compared to the stock configuration that would affect the config file
-- Ender Extender 400
+- Ender Extender 400 (400 x 400 x 250)
 - Creality 4.2.7 Board
 - Creality BLTouch V3.1
 - Creality Filament Runout Sensor
